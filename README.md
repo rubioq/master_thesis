@@ -1,5 +1,5 @@
 
-This repository contains the code used in the work "Stress granule protein Tudor Staphylococcal Nuclease mediates heat response at the multi-omic level in *Arabidopsis thaliana*". This study represents the Master's thesis of [@rubioq](https://github.com/rubioq/)(Master's degree in Omic Data Analysis and Systems Biology).  
+This repository contains the code used in the work "Stress granule protein Tudor Staphylococcal Nuclease mediates heat response at the multi-omic level in *Arabidopsis thaliana*". This study represents the Master's thesis of [@rubioq](https://github.com/rubioq/) (Master's degree in Omic Data Analysis and Systems Biology).  
 
 ## Scripts
 

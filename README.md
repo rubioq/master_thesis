@@ -17,6 +17,6 @@ Here is a brief description of each script. They are presented in the order in w
 
 - **phospho_downstream_analysis.R** - Includes additional analyses performed on differentially phosphorylated sites (DPSs) identified in phospho_diff_analysis.R. We mainly studied cellular localization of proteins, their physicochemical characteristics (in relation to Liquid-Liquid Phase Separation and Intrinsic Disorder) and carried out a clustering analysis.
 
-- **protein_diff_analysis.R** and **transc_diff_analysis.R** - Used for the identification of differentially expressed proteins (DEPs) and genes (DEGs), respectively, as well as the corresponding ORAs.
+- **protein_diff_analysis.R** and **transc_diff_analysis.R** - Similar to phospho_diff_analysis, allows for the identification of differentially expressed proteins (DEPs) and genes (DEGs), respectively, as well as for the corresponding ORAs.
 
 - **multi_omic_venn_diagrams.R** - Generates Venn diagrams showing the overlap between differentially phosphorylated proteins, DEPs and DEGs in the three contrasts of interest in our work.
